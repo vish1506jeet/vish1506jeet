@@ -1,7 +1,7 @@
 # AI-Powered Workflow Automation
 
 **Company:** upGrad
-**My role:** Product Owner — owned this from the first conversation to the board presentation
+**My role:** Project Manager — owned this from the first conversation to the board presentation
 
 ## The problem, in plain terms
 
