@@ -2,7 +2,7 @@
 
 IT Project Manager with 6+ years delivering technology projects across large-scale, regulated environments — Agile and Waterfall, 95% on-time delivery, zero critical defects. Background spans product ownership, business analysis, and data analytics, and I build my own dashboards and SQL rather than waiting on someone else's numbers.
 
--  MSc Business Analytics, University of Galway
+-  MSc Business Analytics, University of Galway, Ireland
 -  PMP (PMI) & CSPO (Scrum Alliance) | Atlassian Agile PM Professional | AWS Cloud Practitioner
 -  SQL (PostgreSQL) • Power BI (DAX, Power Query) • Jira & Confluence • Power Automate
 -  Based in Dublin, Ireland
